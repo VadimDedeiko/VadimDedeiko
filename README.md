@@ -1,4 +1,9 @@
-### Hi there 👋
+### ℍ𝕚 𝕥𝕙𝕖𝕣𝕖. 𝕄𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘝𝘢𝘥𝘪𝘮 👋
+About me:
+    I am programmer 💻
+    I learn Java at Job4j ☕
+    My Java expirience is 1 years ⌚
+
 
 <!--
 **VadimDedeiko/VadimDedeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
