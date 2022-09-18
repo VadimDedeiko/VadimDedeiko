@@ -6,14 +6,31 @@
 
 - I am programmer from Kharkov 💻
 - I learn Java at Job4j
-- My Java expirience is 1,5 years 💼
+- 1,5 years Java expirience 💼
     
 ### Core technologies:
-* Java Core
-* Spring Framework
-* SpringBoot
-* REST API
-* Hibername
+![JAVA](https://img.shields.io/badge/Java%20SE-%3E%3D8-red?style=plastic&logo=java)
+<img src="https://img.shields.io/badge/Spring-%3E5.0-orange?style=plastic&logo=spring&logoColor=white" width="140" height="30" alt="Spring">
+<img src="https://img.shields.io/badge/Spring-Boot-orange?style=plastic&logo=springboot&logoColor=white" width="140" height="30" alt="SpringBoot">
+<img src="https://img.shields.io/badge/Java-Servlet%20API-blue?style=plastic&logo=springboot&logoColor=white" width="160" height="30" alt="Java-Servlet">
+https://img.shields.io/badge/REST-API-green
+https://img.shields.io/badge/Hibernate-%3E%3D5.0-orange
+
+hibernate
+microsoftsqlserver
+postgresql
+bootstrap
+html5
+thymeleaf
+docker
+apachekafka
+apachemaven
+apachetomcat
+
+bright green green yellowgreen yelloworange red blue lightgrey
+success important critical informational inactive
+blueviole tff69b4 9cf
+
 * JDBC
 * Postgre SQL
 * HTML
