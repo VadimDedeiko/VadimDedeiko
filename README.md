@@ -9,10 +9,10 @@
 - 1,5 years Java expirience 💼
     
 ### Core technologies:
-![JAVA](https://img.shields.io/badge/Java%20SE-%3E%3D8-red?style=plastic&logo=java)
-<img src="https://img.shields.io/badge/Spring-%3E5.0-orange?style=plastic&logo=spring&logoColor=white" width="140" height="30" alt="Spring">
-<img src="https://img.shields.io/badge/Spring-Boot-orange?style=plastic&logo=springboot&logoColor=white" width="140" height="30" alt="SpringBoot">
-<img src="https://img.shields.io/badge/Java-Servlet%20API-blue?style=plastic&logo=springboot&logoColor=white" width="160" height="30" alt="Java-Servlet">
+![JAVA](https://img.shields.io/badge/Java%20SE-%3E%3D8-red?style=plastic&logo=)
+<img src="https://img.shields.io/badge/Spring-%3E5.0-orange?style=plastic&logo=spring&logoColor=white" width="120" height="20" alt="Spring">
+<img src="https://img.shields.io/badge/Spring-Boot-orange?style=plastic&logo=springboot&logoColor=white" width="120" height="20" alt="SpringBoot">
+<img src="https://img.shields.io/badge/Java-Servlet%20API-blue?style=plastic&logo=springboot&logoColor=white" width="130" height="20" alt="Java-Servlet">
 https://img.shields.io/badge/REST-API-green
 https://img.shields.io/badge/Hibernate-%3E%3D5.0-orange
 
