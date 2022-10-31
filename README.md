@@ -5,7 +5,7 @@
 
 - I am programmer from Kharkov 💻
 - I learn Java at Job4j
-- 1,5 years Java expirience 💼
+- 2 years Java expirience 💼
     
 ### Core technologies:
 <img src="https://img.shields.io/badge/Java%20SE-%3E%3D8-red?style=plastic&logo=spring&logoColor=white" width="130" height="25" alt="Spring"> <img src="https://img.shields.io/badge/Spring-%3E5.0-orange?style=plastic&logo=spring&logoColor=white" width="130" height="25" alt="Spring">
