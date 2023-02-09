@@ -4,7 +4,7 @@
 #### About me:
 
 - I am programmer from Kharkov 💻
-- I learn Java at Job4j
+- I learned and worked Java at Job4j
 - 2 years Java expirience 💼
     
 ### Core technologies:
